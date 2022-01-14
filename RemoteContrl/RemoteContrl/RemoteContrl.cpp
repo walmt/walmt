@@ -38,7 +38,7 @@ int main()
     }
     else
     {  
-        // TODO: 更改错误代码以符合需要     
+        // TODO: 更改错误代码以符合需要嘻嘻  
         wprintf(L"错误: GetModuleHandle 失败\n");
         nRetCode = 1;
     }
