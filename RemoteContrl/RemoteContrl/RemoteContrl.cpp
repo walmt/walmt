@@ -32,7 +32,7 @@ int main()
             nRetCode = 1;
         }
         else
-        {
+        { 
             // TODO: 在此处为应用程序的行为编写代码。
         }
     }
